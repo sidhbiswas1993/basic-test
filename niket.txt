@@ -1,0 +1,24 @@
+what are the commmands to use in psdrive
+clear-item
+cli
+cpi or cp  or copy-item , copy 
+get-childite, dir , ls gci
+get-item ,  invoke-item , move , remove , new , rename clear-item , [ copy-item property , new , renmame , set ]
+
+■ Clear-Item (cli) 
+■ Copy-Item (copy, cpi, or cp) 
+■ Get-ChildItem (dir, ls, or gci) 
+■ Get-Item (gi) 
+■ Invoke-Item (ii) 
+■ Move-Item (move, mv, or mi) 
+■ New-Item (ni) 
+■ Remove-Item (erase, del, rd, ri, or rm) 
+■ Rename-Item (rni or ren) 
+■ Set-Item (si) 
+■ Clear-ItemProperty (clp) 
+■ Copy-ItemProperty (cpp) 
+■ Get-ItemProperty (gp) 
+■ Move-ItemProperty (mp) 
+■ New-ItemProperty 
+■ Rename-ItemProperty (rnp) 
+■ Set-ItemProperty (sp) 
